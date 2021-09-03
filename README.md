@@ -1,5 +1,6 @@
 # Pattern-Recognition-Course-Project
 Nearest Neighbours Algorithms coded in C#.
+Implementation of KNN, weighted KNN, and fuzzy KNN.
 
 Input Dataset:
 [dataset.xls](https://github.com/PricelessCodes/Pattern-Recognition-Course-Project/files/7077185/dataset.xls)
